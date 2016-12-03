@@ -13,6 +13,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        // Calculating velocity
         Vector3 velocity = new Vector3();
         // S = S0 + v*delta_t
         if (Input.GetKey("w")) {
@@ -28,6 +29,7 @@ public class PlayerBehaviour : MonoBehaviour {
             velocity.x = -speed;
         }
 
+        // Updating position
         transform.position = transform.position + velocity * Time.deltaTime;
 
         //Optional: velocity = new Vector3(GetAxis("Horizontal"), GetAxis("Vertical"), 0f) * speed;
