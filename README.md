@@ -26,7 +26,8 @@ Arquivos das aulas para os treinamentos dos bixos em unity
   - Fazer alguma condiçao de Game Over
   - Fazer aparecerem novos inimigos a cada intervalo de tempo
  6. TODO
-  - Fazer a colisao do inimigo com o player;
+  - Fazer a colisao do inimigo com o player
+
 ### Aula 1: Projeto Defender:
   1. Objeto Player
     - Adicionar um "canhão"
