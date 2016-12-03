@@ -3,7 +3,7 @@ Arquivos das aulas para os treinamentos dos bixos em unity
 
 ##Conteudo
 
-### Aula0: Projeto Follow 
+### [Aula0: Projeto Follow](./Follow)
 1. Objeto Player
   - Criar um sprite no paint
   - Adicionar um sprite no objeto vazio
@@ -28,7 +28,7 @@ Arquivos das aulas para os treinamentos dos bixos em unity
  6. TODO
   - Fazer a colisao do inimigo com o player
 
-### Aula 1: Projeto Defender:
+### [Aula 1: Projeto Defender](./Defender)
   1. Objeto Player
     - Adicionar um "canhão"
     - Adicionar o ponto de onde os tiros vao sair
